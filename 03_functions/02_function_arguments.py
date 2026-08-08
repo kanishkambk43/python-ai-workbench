@@ -218,7 +218,7 @@ Key Points
 2. Keyword arguments specify the parameter name explicitly.
 3. Default arguments are used when no value is provided.
 4. *args collects multiple positional arguments into a tuple.
-5. **kwargs collects multiple keyword arguments into a dictionary.
+5. **kwargs collects multiple keyword arguments into a Dictionary.
 6. * unpacks sequences like lists and tuples.
 7. ** unpacks dictionaries into keyword arguments.
 """
