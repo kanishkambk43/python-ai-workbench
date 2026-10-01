@@ -587,6 +587,5 @@ Important Points
 8. Dictionaries can contain other dictionaries.
 9. Dictionaries can contain lists, tuples,
    sets, and other objects.
-10. Dictionary methods will be covered in
-    08_dictionary_methods.py.
+
 """
