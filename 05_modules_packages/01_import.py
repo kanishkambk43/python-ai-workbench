@@ -514,5 +514,9 @@ Important Syntax
     square_root(25)
 
 
-
+Key Idea
+--------
+A module allows us to organize and reuse
+Python code instead of putting everything
+inside one huge Python file.
 """
