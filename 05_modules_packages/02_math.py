@@ -80,7 +80,7 @@ print(math.fabs(-10))                  # Returns positive absolute value: 10.0
 print(math.log(100, 10))               # Calculates logarithm of 100 with base 10: 2.0
 
 
-# ===========================================
+# ==========================================
 # Summary
 # ===========================================
 
