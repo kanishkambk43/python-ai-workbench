@@ -74,9 +74,9 @@ print(new_date)                         # Adds 7 days to the date: 2025-01-22
 old_date = my_date - timedelta(days=5)
 print(old_date)                         # Subtracts 5 days from the date: 2025-01-10
 
-# ===========================================
+# ==========================================
 # Summary
-# ===========================================
+# ==========================================
 
 """
 Covered:
